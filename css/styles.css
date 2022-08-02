@@ -20,6 +20,12 @@ padding-top: 100px ;
 }
 .buttom-container{
 }
+.skill-row{
+    width: 100%;
+    margin: 100px auto 100px auto;
+    line-height: 0;
+}
+
 .top-cloud{
     position: absolute;
     left: 300px;
@@ -31,4 +37,17 @@ padding-top: 100px ;
     left: 700px;
     bottom:: 400px;
 }
+
+.code-img{
+    width: 15%;
+    float: left;
+    margin: 10px;
+}
+.chili-img{
+    width: 10%;
+    float: right;
+    margin: 10px;
+}
+
+
 
