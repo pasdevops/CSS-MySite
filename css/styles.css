@@ -6,7 +6,8 @@ body {
 }
 h1 {
     font-size: 0.5%px;
-    margin-top: 50px;
+    padding-top: 50px;
+    margin-top: 0;
     font-family: 'Sacramento', cursive;
 }
 h2 {
@@ -61,7 +62,7 @@ padding-bottom:;
     margin:auto;
 }
 .contact{
- width: 40;  
+ width: 40%;  
  margin: auto;
 }
 .copyright{
@@ -131,7 +132,3 @@ padding-bottom:;
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
-
-
-
-
